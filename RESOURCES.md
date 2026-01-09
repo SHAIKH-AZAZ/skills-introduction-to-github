@@ -16,7 +16,7 @@ Continue your learning with more interactive GitHub Skills courses:
 - [GitHub Docs](https://docs.github.com) - Comprehensive documentation for all GitHub features
 - [Git Handbook](https://guides.github.com/introduction/git-handbook/) - Learn the basics of Git
 - [GitHub Guides](https://guides.github.com) - Short guides on GitHub topics
-- [GitHub Learning Lab](https://lab.github.com) - Interactive courses and tutorials
+- [GitHub Skills](https://skills.github.com) - Interactive courses and tutorials
 
 ## Git Resources
 

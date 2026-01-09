@@ -52,7 +52,7 @@ We welcome suggestions for improving this learning experience:
 
 ## Code of Conduct
 
-Please note that this project follows a [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md). By participating, you are expected to uphold this code.
+Please note that this project follows a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## Questions?
 
